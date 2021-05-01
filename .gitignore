@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+work/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS Code stuff
+.vscode
+
+# Google Search cookie
+.google-cookie
